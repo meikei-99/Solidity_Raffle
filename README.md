@@ -10,7 +10,7 @@
 
 ### Website Preview
 
-<img src="./public/raffle-FCC.png" alt="demo" title="Optional title" width="600px" height="400px">
+<img src="./raffle-FCC.png" alt="demo" title="Optional title" width="600px" height="400px">
 
 <a href="https://spring-snowflake-3208.on.fleek.co" target="_blank">Click here for live website.</a>
 
